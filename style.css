@@ -1,0 +1,24 @@
+/** create wildcard style that will
+** -remove all margin and padding from all elements
+** -make the default font size 1em
+** make the border none
+*/
+{
+
+}
+
+/**
+** create a style adding the following the the title:
+** a font colour
+** a font size of at least 1.5 em 
+** a decorative text treatment
+*/
+. {
+    
+}
+/** 
+** create a style class called sibling that will make the target inline-block with dimensions of 600x600
+*/
+{
+    
+}
